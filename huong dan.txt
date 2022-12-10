@@ -1,0 +1,4 @@
+1) cài đặt nodejs
+2) đặt folder ảnh cần nén vào folder "input"
+3) mở terminal và nhập: npm start
+4) kiểm tra folder "output"

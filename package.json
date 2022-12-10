@@ -1,0 +1,19 @@
+{
+  "name": "compress-image-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "compress-images": "^2.0.5"
+  },
+  "dependencies": {
+    "pngquant-bin": "^6.0.1",
+    "prompt": "^1.3.0"
+  }
+}
